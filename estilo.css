@@ -1,0 +1,62 @@
+body{
+	background: #d2d2c1 url(imagens/fundo.png);
+	;
+}
+#principal{
+	width: 900px;
+	border: 1px;
+	;
+}
+#menu{
+	background: #c5c5b2;
+	padding:19px ;
+	border: px solid red;
+	width: ;
+	font-weight: bold;
+}
+
+a{
+	padding: 5px 10px;
+	text-decoration: none;
+	color: white;
+}
+a:link, visited{
+	background: #4b566a;
+}
+a:hover{
+	background: red;
+}
+.home{
+	margin-right: 4px;
+}
+
+}
+div{
+	background: white;
+	
+
+
+}
+.conteudo{
+
+	background:#e8e8d9;
+	border: px solid red;
+	width: ;
+	font-weight: 300;
+	padding: 2px;
+
+}
+h1{
+	color: #828271;
+	font-size: 1.5em;
+}
+
+h3{
+	text-align: center;
+}
+
+.borda {
+	border: 10px solid #c5c5b2;
+}
+
+
